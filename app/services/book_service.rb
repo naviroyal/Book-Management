@@ -1,0 +1,3 @@
+class BookService < Book
+    
+end
